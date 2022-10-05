@@ -33,9 +33,8 @@ GET https://camiestas-futbol.effectstudios.co/api/v1/product-single/{slug}
 ```
 
 # Objectives
-- Fork this repository.
-- Build the user interface exaclty as seen in the design file linked above. Alignment, spacing and precision are key.
-- Connect the UI to the backend using the API provided above
+- Build the user interface exaclty as seen in the design.
+- Integrate the UI with the backend using the API provided above.
 - Animations are not required, but would be a plus.
 
 # Requirements
