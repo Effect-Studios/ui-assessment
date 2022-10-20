@@ -41,6 +41,7 @@ GET https://camiestas-futbol.effectstudios.co/api/v1/product-single/{slug}
 ### Web Framework (Any of)
 - React ([Vite](https://vitejs.dev/)) or [Next.js](https://nextjs.org/)
 - [Vue 3](https://vuejs.org/) or [Nuxt 3](https://v3.nuxtjs.org/)
+- Wordpress
 
 ### UI library (Any of) 
 - [TailwindCSS](https://tailwindcss.com/)
