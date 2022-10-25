@@ -19,7 +19,7 @@ GET https://camiestas-futbol.effectstudios.co/api/v1/banner
 ```
 #### Popular products
 ```shell
-GET https://camiestas-futbol.effectstudios.co/api/v1/product-category
+GET https://camiestas-futbol.effectstudios.co/api/v1/popular-products
 ```
 #### Product collections/categories
 Slugs for `Country Leagues` and `Other Collections` can be found in the results returned from this endpoint
