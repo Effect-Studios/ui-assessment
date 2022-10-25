@@ -4,7 +4,10 @@
 https://www.figma.com/file/fO9SrIq6PCQSoJ8iqT0A3O/Sample-UI?node-id=1%3A2
 
 # Assets
-Icons and images are included in the assets folder of this repo
+### Icons and images 
+See assets folder of this repo
+### Font
+[Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont)
 
 # API
 Docs: https://camiestas-futbol.effectstudios.co/api/docs <br>
