@@ -33,9 +33,10 @@ https://www.figma.com/design/eT2LxWCgWEyeKafOcP2lyl/Assessment-2?node-id=633-680
 
 72hrs from the date of the email. \*_Bonus points will be awarded if submitted before the deadline_
 
-If you have any questions, do leave them in the discussions panel and mention @pyplacca in it. You can hitherto send an email to the correspondent.
+# Questions
+Questions can be addressed to @pyplacca in the discussion panel or emailed to david@effectstudios.co.
 
 # Submission Instructions
 
 1. Deploy the finished implementation on any platform of your choice.
-2. [E-mail](mailto:david@effectstudios.co?subject=Submission:%20Frontend%20Developer%20Assessment) the links of the deployment and Github repository.
+2. Email the deployment and GitHub repository links to [this recipient](mailto:david@effectstudios.co?subject=Submission:%20Frontend%20Developer%20Assessment).
