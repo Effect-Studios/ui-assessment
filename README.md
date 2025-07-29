@@ -19,10 +19,9 @@ https://www.figma.com/design/eT2LxWCgWEyeKafOcP2lyl/Assessment-2?node-id=633-680
 
 - Typescript
 
-### Web Framework (Any of)
+### Web Framework
 
-- [Nextjs](https://nextjs.org/)
-- [Nuxt 3](https://v3.nuxtjs.org/) - Preferred
+- [Nuxt 3](https://v3.nuxtjs.org/)
 
 ### UI library (Any of)
 
@@ -31,10 +30,10 @@ https://www.figma.com/design/eT2LxWCgWEyeKafOcP2lyl/Assessment-2?node-id=633-680
 
 # Deadline
 
-72hrs from the date of the email. \*_Bonus points will be awarded if submitted before the deadline_
+48hrs from the date of the email. \*_Bonus points will be awarded if submitted before the deadline_
 
 # Questions
-Questions can be addressed to @pyplacca in the discussion panel or emailed to david@effectstudios.co.
+Questions can be directed to @pyplacca in the discussion panel or emailed to david@effectstudios.co.
 
 # Submission Instructions
 
